@@ -1,0 +1,10 @@
+{
+  "name": "AI Food Calorie & Nutrition Analyzer",
+  "description": "Analyze food photos using Gemini AI to identify dishes, estimate calories, list ingredients, and provide detailed nutritional breakdowns.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
